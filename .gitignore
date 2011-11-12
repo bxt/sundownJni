@@ -1,0 +1,20 @@
+# Temporary files
+*~
+*.swp
+
+# KDE
+.directory
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Other
+*.o
+*.class
+bxt_sundownJni*.h
+*.so
+README.html
+sundown/examples
+sundown/sundown
+sundown/smartypants
